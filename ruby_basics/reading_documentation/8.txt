@@ -1,0 +1,4 @@
+Answer: https://docs.ruby-lang.org/en/master/String.html#method-i-rjust
+rjust Returns a right-justified copy of self.
+
+Solution: Correct.

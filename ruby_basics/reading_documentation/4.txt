@@ -1,0 +1,5 @@
+Answer: https://docs.ruby-lang.org/en/master/syntax/control_expressions_rdoc.html#label-break+Statement
+
+"break accepts a value that supplies the result of the expression it is “breaking” out of:"
+
+Solution: break returns nil when no arguments are passed to break, or the value of the argument when an argument is provided.

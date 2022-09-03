@@ -1,0 +1,4 @@
+Answer: https://docs.ruby-lang.org/en/master/syntax/literals_rdoc.html#label-Symbol+Literals
+You may reference a symbol using a colon: :my_symbol.
+
+Solution: Correct.

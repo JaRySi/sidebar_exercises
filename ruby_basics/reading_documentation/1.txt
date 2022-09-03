@@ -1,0 +1,3 @@
+Answer: ruby-doc.org
+
+Solution: doc.ruby-lang.org/en has apparently replaced ruby-doc.org as the preferred documentation source, although ruby-doc.org is still acceptable. Bookmark changed.
